@@ -1,0 +1,7 @@
+| Lab                                                                | Link Port                                                                                                      | Link WU         |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- | --------------- |
+| Lab: OS command injection, simple case                             | [Link Port](https://portswigger.net/web-security/os-command-injection/lab-simple)                              | [Link WU](Lab1) |
+| Lab: Blind OS Command Injection (Time Delay)                       | [Link Port](https://portswigger.net/web-security/os-command-injection/lab-blind-time-delays)                   | [Link WU](lab2) |
+| Lab: Blind OS command injection with output redirection            | [Link Port](https://portswigger.net/web-security/os-command-injection/lab-blind-output-redirection)            | [Link WU](Lab3) |
+| Lab: Blind OS command injection with out-of-band interaction       | [Link Port](https://portswigger.net/web-security/os-command-injection/lab-blind-out-of-band)                   | [Link WU](Lab4) |
+| Lab: Blind OS command injection with out-of-band data exfiltration | [Link Port](https://portswigger.net/web-security/os-command-injection/lab-blind-out-of-band-data-exfiltration) | [Link WU](Lab5) |
