@@ -1,0 +1,8 @@
+| Lab                                                       | Link Port                                                                                                                          | Link WU         |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| Lab: Remote code execution via web shell upload           | [Link Port](https://portswigger.net/web-security/file-upload/lab-file-upload-remote-code-execution-via-web-shell-upload)           | [Link WU](Lab1) |
+| Lab: Web shell upload via Content-Type restriction bypass | [Link Port](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-content-type-restriction-bypass) | [Link WU](Lab2) |
+| Lab: Web shell upload via path traversal                  | [Link Port](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-path-traversal)                  | [Link WU](Lab3) |
+| Lab: Web shell upload via extension blacklist bypass      | [Link Port](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-extension-blacklist-bypass)      | [Link WU](Lab4) |
+| Lab: Web shell upload via obfuscated file extension       | [Link Port](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-obfuscated-file-extension)       | [Link WU](Lab5) |
+| Lab: Remote code execution via polyglot web shell upload  | [Link Port](https://portswigger.net/web-security/file-upload/lab-file-upload-remote-code-execution-via-polyglot-web-shell-upload)  | [Link WU](Lab6) |
